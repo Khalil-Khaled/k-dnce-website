@@ -1,0 +1,11 @@
+{
+  "title": "K-DNCE",
+  "description": "Engage sports enthusiasts with a vibrant landing page that promotes digital marketing services tailored for athletes, coaches, and sports organizations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
